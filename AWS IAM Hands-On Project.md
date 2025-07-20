@@ -11,7 +11,7 @@ This hands-on project demonstrates the use of **AWS Identity and Access Manageme
 ## 📹 Watch the Video
 
 🎥 [Watch it on LinkedIn](#)  
-📂 [Project Files on GitHub](https://https://github.com/Edimulo1)
+📂 [Project Files on GitHub](https://github.com/Edimulo1)
 
 ---
 
